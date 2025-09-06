@@ -101,10 +101,7 @@ r8 = range(verse)
 #Task 9
 GAc = pd.read_csv('GAcodes.csv')
 hx = strhash(str(GAc))
-# Workshop END
-#
-###########################################################
-# Collaboration Challenge
+
 #
 # S11ccq Q7
 ce = ['hello', 'WORLD']
@@ -198,7 +195,7 @@ ans9 += "world"
 print(ans9)
 ans9_h = strhash(str(ans9))
 #
-# Individual Challenge  END
+
 EndHere( globals())
 #exit()
 ###########################################################
